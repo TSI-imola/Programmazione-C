@@ -1,0 +1,3 @@
+I:/Il mio Drive/Scuola/Programmazione/C/02-10-23/Esercizi1-2/cmake-build-debug/CMakeFiles/untitled1.dir
+I:/Il mio Drive/Scuola/Programmazione/C/02-10-23/Esercizi1-2/cmake-build-debug/CMakeFiles/edit_cache.dir
+I:/Il mio Drive/Scuola/Programmazione/C/02-10-23/Esercizi1-2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
