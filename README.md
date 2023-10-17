@@ -1,6 +1,9 @@
 # PROGRAMMAZIONE
 
 ### Indice:
-  - Pratico
-    - Script
-      - Primo Semestre
+  - script
+    - c
+      - Calcola Area Perimetro
+      - Esercizi 1° giorno Pratico
+    - python
+      - test.py
