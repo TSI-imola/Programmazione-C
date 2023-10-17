@@ -214,24 +214,22 @@ void es8() {
 }
 
 void es9() {
- /*
-
-    int i = 1;
-    int j = 1;
-    int isPrime = 1;
-    while (i <= 100) {
-        while (j <= i / 2) {
-            if (i % j == 0 && j != 1) {
-                isPrime = 0;
+    {
+        {
+            {
+                {
+                    {
+                        {
+                            {
+                                {
+                                    {}
+                                }
+                            }
+                        }
+                    }
+                }
             }
-            j++;
         }
-        if (isPrime == 1) {
-            printf("%d\n", i);
-        }
-        isPrime = 1;
-        j = 1;
-        i++;
-    }*/
+    }
 
 }
