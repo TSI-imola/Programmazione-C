@@ -5,6 +5,10 @@ def ciao():
     print("ciao")
 
 
+def Vaffanculo():
+    print("Vaffanculo")
+
+
 def ciao2():
     print("ciao2")
 
