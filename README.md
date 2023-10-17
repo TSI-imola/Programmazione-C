@@ -11,10 +11,12 @@
 <html>
   <head>
   <style>
-    
+    .ciao {
+      color: red;
+      }
   </style>
   </head>
   <body>
-    <h1 style="color: red">Ciao</p>
+    <h1 class="ciao" style="color: red">Ciao</p>
   </body>
 </html>
