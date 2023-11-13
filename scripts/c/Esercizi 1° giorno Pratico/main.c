@@ -117,7 +117,6 @@ void es3() {
 }
 
 void es4() {
-
     char lettera;
     printf("Inserisci una lettera dell'alfabeto:\n");
     scanf(" %c", &lettera);
@@ -198,38 +197,24 @@ void es8() {
     float num;
     int i = 0;
     float calc;
-    while (i < 10) {
-        printf("Inserisci un numero: (%d/10)\n", i);
+    int val;
+    printf("Quanti valori vuoi inserire?:\n");
+    scanf("%d", &val);
+    while (i < val) {
+        printf("Inserisci un numero: (%d/%d)\n", i, val);
         scanf("%f", &num);
-        calc += num;
-        printf("La somma e': %f\n", calc);
-        printf("La media e': %f\n", calc / 10);
-        if (calc / 10 == 0) {
-            printf("Fai Schifo");
-            return;
+        if (num <= 0) {
+            printf("Devi inserire un numero Positivo, Riprova.\n");
+        } else {
+            i++;
+            calc += num;
         }
-        i++;
     }
-
+    printf("La somma e': %f\n", calc);
+    printf("La media e': %f\n", calc / 10);
 }
 
 void es9() {
-    {
-        {
-            {
-                {
-                    {
-                        {
-                            {
-                                {
-                                    {}
-                                }
-                            }
-                        }
-                    }
-                }
-            }
-        }
-    }
+
 
 }

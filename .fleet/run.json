@@ -1,0 +1,12 @@
+{
+    "configurations": [
+        c
+        {
+            "type": "python",
+            "name": "Python configuration",
+            "file": "",
+            "arguments": [],
+        },
+        
+    ]
+}
