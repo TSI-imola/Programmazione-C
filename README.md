@@ -1,4 +1,1 @@
 # PROGRAMMAZIONE
-
-### Contributors:
-- Alessandro Bruno
